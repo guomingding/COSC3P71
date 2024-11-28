@@ -1,0 +1,94 @@
+
+Results for t1:
+
+Configuration: CR1.0_MR0.0_ER0.01
+min_fitness: 1.0000
+max_fitness: 1.0000
+mean_fitness: 1.0000
+median_fitness: 1.0000
+std_fitness: 0.0000
+avg_generations: 7.8000
+std_generations: 1.7205
+
+Configuration: CR1.0_MR0.1_ER0.01
+min_fitness: 1.0000
+max_fitness: 1.0000
+mean_fitness: 1.0000
+median_fitness: 1.0000
+std_fitness: 0.0000
+avg_generations: 14.6000
+std_generations: 7.1722
+
+Configuration: CR0.9_MR0.0_ER0.01
+min_fitness: 1.0000
+max_fitness: 1.0000
+mean_fitness: 1.0000
+median_fitness: 1.0000
+std_fitness: 0.0000
+avg_generations: 10.6000
+std_generations: 2.2450
+
+Configuration: CR0.9_MR0.1_ER0.01
+min_fitness: 1.0000
+max_fitness: 1.0000
+mean_fitness: 1.0000
+median_fitness: 1.0000
+std_fitness: 0.0000
+avg_generations: 16.8000
+std_generations: 6.5848
+
+Configuration: CR0.95_MR0.2_ER0.01
+min_fitness: 1.0000
+max_fitness: 1.0000
+mean_fitness: 1.0000
+median_fitness: 1.0000
+std_fitness: 0.0000
+avg_generations: 22.6000
+std_generations: 5.7131
+
+Results for t2:
+
+Configuration: CR1.0_MR0.0_ER0.01
+min_fitness: 1.0000
+max_fitness: 1.0000
+mean_fitness: 1.0000
+median_fitness: 1.0000
+std_fitness: 0.0000
+avg_generations: 2.4000
+std_generations: 1.7436
+
+Configuration: CR1.0_MR0.1_ER0.01
+min_fitness: 1.0000
+max_fitness: 1.0000
+mean_fitness: 1.0000
+median_fitness: 1.0000
+std_fitness: 0.0000
+avg_generations: 5.2000
+std_generations: 1.9391
+
+Configuration: CR0.9_MR0.0_ER0.01
+min_fitness: 1.0000
+max_fitness: 1.0000
+mean_fitness: 1.0000
+median_fitness: 1.0000
+std_fitness: 0.0000
+avg_generations: 1.8000
+std_generations: 1.3266
+
+Configuration: CR0.9_MR0.1_ER0.01
+min_fitness: 1.0000
+max_fitness: 1.0000
+mean_fitness: 1.0000
+median_fitness: 1.0000
+std_fitness: 0.0000
+avg_generations: 4.4000
+std_generations: 2.6533
+
+Configuration: CR0.95_MR0.2_ER0.01
+min_fitness: 1.0000
+max_fitness: 1.0000
+mean_fitness: 1.0000
+median_fitness: 1.0000
+std_fitness: 0.0000
+avg_generations: 2.2000
+std_generations: 1.1662
